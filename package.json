@@ -1,0 +1,17 @@
+{
+  "name": "fakelibrary",
+  "version": "1.0.0",
+  "description": "FakeLibrary to test definition on private repository.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/typescript/bin/tsc",
+    "watch": "./node_modules/typescript/bin/tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "2.0.3"
+  },
+  "author": "MasGaNo",
+  "license": "MIT"
+}
