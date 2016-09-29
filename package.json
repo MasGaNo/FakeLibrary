@@ -12,6 +12,14 @@
   "devDependencies": {
     "typescript": "2.0.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasGaNo/FakeLibrary.git"
+  },
   "author": "MasGaNo",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasGaNo/FakeLibrary/issues"
+  },
+  "homepage": "https://github.com/MasGaNo/FakeLibrary#readme"
 }
